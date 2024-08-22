@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kukuabassanimeri
-- 👀 I’m interested in Full-stack, Machine learning, cyber security and application development
-- 🌱 I’m currently learning C++, application programming, assembly langauge writings, and web scriptings. 
-- 💞️ I’m looking to collaborate on full-stack projects, machine learning and some basic mathematics 
+- 👀 I’m an aspiring Full-stack developer, with future interest in Machine learning, and cyber security. 
+- 🌱 Currently, I have basic knowledge in html, css, tailwinf css, java, python and django. 
+- 💞️ I’m looking to collaborate on full-stack projects, machine learning and some basic mathematics.
 - 📫 How to reach me abasskuku319@gmail.com 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: love listening to east African musics. 
