@@ -1,4 +1,4 @@
 - Software Developer.
 - I have expertise in  Python, PHP, JavaScript, Django, Laravel, React, HTML5, CSS3, Bootstrap, RESTful API integration, and database management with PostgreSQL, MySQL, and SQLite. 
 - I am eager to leverage my skills in innovative software development teams.
-- I love listening to music and watching football. 
+- I love listening to music and watching football.
